@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta property="og:image" content="/img/logo/480.png">
+<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
+<link rel="stylesheet" type="text/css" href="/css/base.css">
+<link rel="stylesheet" type="text/css" href="/css/hmd.css">
+<title>Личный кабинет перевозчика (подрядчика) - HMD</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<main>
+
+<h1>Личный кабинет перевозчика (подрядчика)</h1>
+
+<!-- carrier -->
+
+<ul>
+
+<li>
+<b>Диспетчер</b>
+<br/>
+1. Принимает задания, назначает водителей и АТС на выполнение заданий; 
+<br/>
+2. В случае отсутствия возможности у водителя пройти по контрольным точкам (отсутствует приложение и т.д.), отмечает статус прохождения АТС по контрольным точкам задания (при условии наличия АТС в геозоне выполнения).
+<br/>
+3. Администрирует учетные записи водителей своей компании (вносит изменения в справочник АТС, список данных по водителям - ФИО, телефон).
+</li>
+
+<li>
+<b>Водитель</b>
+<br/>
+Обязан пройти по цепочке выполнения задания. Контрольные точки - "Задание получено"; "Прибыл на погрузку"; "Получен погрузочный талон"; "Погрузка завершена"; "Прибыл на разгрузку"; "Старт разгрузки"; "Доставлен". Отметка по событию должна быть разрешена только в геозоне выполнения (кроме первой точки).
+</li>
+
+</ul>
+
+
+
+
+
+
+</main>
+</body>
+</html>

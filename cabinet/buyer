@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta property="og:image" content="/img/logo/480.png">
+<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
+<link rel="stylesheet" type="text/css" href="/css/base.css">
+<link rel="stylesheet" type="text/css" href="/css/hmd.css">
+<title>Личный кабинет заказчика - HMD</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<main>
+
+<h1>Личный кабинет заказчика (Стройка)</h1>
+
+<!-- consumer -->
+
+<ul>
+
+<li>
+<a href="builder"><b>Строитель</b></a>
+<br/>
+1. Управлят окнами выгрузки на строительном объекте;
+<br/>
+2. Создает задания на вывоз пустых паллет (возврат пустых паллет осуществляется только на завод НЗ ЖБК; паллеты двух типов - 4 и 9 метров) и на работу АТС на территории стройки (только для типов АТС Инлоудер). Возможны перемещения изделий между стройками; вывоз лишних ЖБИ на завод (данные задания должны быть согласованы Прорабом).
+<br/>
+3. Получает уведомленя в ЛК и на телефон об отгруженных рейсах в адрес стройплощадки
+</li>
+
+<li>
+<a href="foreman"><b>Прораб</b></a>
+<br/>
+1. Видит отчет по доставке рейсов в разрезе изделий, времени прихода на стройку машины, времени ее разгрузки. Статистику по работе стройплощадки, бригады, всех контролируемых объектов.
+<br/>
+2. Согласует Строителю перемещение ЖБИ между стройками и вывоз на завод.
+<br/>
+3. Администрирование учетных записей для Строителей
+</li>
+
+</ul>
+
+</main>
+</body>
+</html>
