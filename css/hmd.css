@@ -1,0 +1,16 @@
+body {
+	color: white;
+}
+h2 {
+	font-size: 2rem;
+}
+h3 {
+	font-size: 1.5rem;
+}
+figure {
+	margin: auto;
+	text-align: center;
+}
+.h {
+	text-align: center;
+}
